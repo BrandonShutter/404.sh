@@ -3,7 +3,7 @@
 
 Remove Broken Links from PPAs
 
-wget http://git.io/eVKW3w
+Clone
 
 sudo chmod +x 404.sh
 
